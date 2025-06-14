@@ -3,7 +3,7 @@
 A modern e-commerce web application built using **React**, **Firebase Authentication**, and the **Platzi Fake Store API**. This app allows users to browse products, register/login, add items to a cart, and proceed to checkout.
 
 ### 🔗 Live Demo
-👉 [View Live App](https://e-commerce-five-alpha-91.vercel.app/)
+👉 [View Live App](https://e-commerce-five-alpha-91.vercel.app/) (https://e-commerce-five-alpha-91.vercel.app/)
 
 ---
 
@@ -24,7 +24,7 @@ A modern e-commerce web application built using **React**, **Firebase Authentica
 
 - **Frontend:** React, React Router DOM, Bootstrap
 - **Authentication:** Firebase Auth
-- **Backend (Mock API):** [https://api.escuelajs.co](https://api.escuelajs.co)
+- **Backend (Mock API):** (https://fakeapi.platzi.com/)
 - **State Management:** React Context API (for cart and auth)
 
 ---
