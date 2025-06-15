@@ -51,8 +51,10 @@ A modern e-commerce web application built using **React**, **Firebase Authentica
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/babarm96/e-commerce.git
+cd e-commerce
+npm i
+npm start
 
 
 
